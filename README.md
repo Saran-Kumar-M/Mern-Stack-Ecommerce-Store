@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/ba43cea9-c2be-434b-b03f-24cc3d948a94)
 
-[HOSTED SITE](https://tonys-mern-stack-ecommerce.onrender.com)
+[HOSTED SITE]-- [https://tonys-mern-stack-ecommerce.onrender.com](https://tonys-mern-stack-ecommerce.onrender.com)
 
 About This Project:
 
